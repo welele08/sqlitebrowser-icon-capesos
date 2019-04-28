@@ -1,0 +1,12 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Name=SQLite Database Browser
+GenericName=Gestionnaire de bases de données SQLite
+Comment=Gérer un base données SQLite
+Exec=sqlitebrowser %F
+Icon=sqlitebrowser
+Terminal=false
+Type=Application
+StartupNotify=true
+Categories=Education;CAPESOS-Logiciels;
+MimeType=application/vnd.sqlite.file;
